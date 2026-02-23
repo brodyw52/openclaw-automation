@@ -1,76 +1,115 @@
 {
   "brand": {
-    "name": "Your Company Name",
-    "product": "Brief description of what you sell",
-    "website": "https://yoursite.com",
-    "value_prop": "One sentence: what problem you solve and for whom"
+    "name": "Metis",
+    "product": "Enterprise AI agent post-training and reliability platform",
+    "website": "https://withmetis.ai",
+    "value_prop": "We help enterprise teams turn unreliable AI agent prototypes into production-ready systems that perform predictably at scale."
   },
-  
+
   "icp": {
     "target_titles": [
-      "VP Marketing",
-      "Head of Growth",
-      "CMO",
-      "Founder",
-      "CEO"
+      "VP of Engineering",
+      "Director of Engineering",
+      "Head of Engineering",
+      "Chief Technology Officer",
+      "VP of Product",
+      "Head of Product",
+      "Director of AI",
+      "Head of AI"
     ],
     "target_industries": [
-      "SaaS",
       "E-commerce",
-      "Technology",
-      "Marketing Agency"
+      "Marketplace",
+      "Agentic Commerce",
+      "Consumer Technology",
+      "Fintech"
     ],
     "company_size": {
-      "min": 10,
-      "max": 500,
-      "ideal": "50-200 employees"
+      "min": 500,
+      "max": 100000,
+      "ideal": "500+ employees or $1B+ valuation"
     },
     "keywords": [
-      "AI",
-      "automation",
-      "marketing",
-      "growth"
+      "AI agents",
+      "agentic commerce",
+      "LLM",
+      "post-training",
+      "evaluation framework",
+      "LLM observability",
+      "agent reliability",
+      "reinforcement learning",
+      "agent deployment",
+      "natural language search",
+      "agent orchestration"
     ],
     "exclude_titles": [
       "Student",
       "Intern",
       "Looking for work",
-      "Open to opportunities"
+      "Open to opportunities",
+      "Recruiter",
+      "Talent Acquisition"
     ],
     "exclude_companies": [
       "Unemployed",
-      "Freelance"
+      "Freelance",
+      "Consultant"
     ]
   },
-  
+
   "outreach": {
-    "sender_name": "Your Name",
-    "sender_title": "Your Title",
-    "tone": "professional but conversational",
-    "cta": "book a call",
-    "calendar_link": "https://calendly.com/you",
+    "sender_name": "Anish",
+    "sender_title": "Metis (YC S25)",
+    "tone": "Direct, highly personalized, intentional, human-written",
+    "cta": "Open to seeing how we improved reliability at DoorDash?",
+    "calendar_link": "https://calendly.com/withmetis",
     "pain_points": [
-      "Pain point 1 your product solves",
-      "Pain point 2 your product solves"
+      "Agent reliability breaks at scale across real multi-turn workflows",
+      "No deterministic evaluation framework to measure and debug failures",
+      "Regressions surface unpredictably during iteration",
+      "Manual QA slows down iteration and hides failure modes",
+      "Production agents need to perform 99.99% reliably, not 50%"
     ],
     "proof_points": [
-      "Social proof or result you can reference",
-      "Another proof point"
+      "Improved natural language search accuracy from 3% to 96%",
+      "Reduced inference costs by 96%",
+      "Reduced latency by 300%",
+      "Deployed to 100M+ monthly active users",
+      "Improved memory accuracy by 38%",
+      "Trusted by DoorDash and top AI labs"
     ]
   },
-  
+
   "linkedin_mining": {
     "topics": [
-      "AI marketing automation",
-      "growth hacking",
-      "marketing AI tools"
+      "AI agent deployment",
+      "agentic commerce",
+      "LLM evaluation",
+      "LLM observability",
+      "post-training",
+      "reinforcement learning for LLMs",
+      "agent reliability",
+      "natural language search",
+      "agent orchestration",
+      "production AI systems"
     ],
     "influencers_to_monitor": [
-      "influencer_handle_1",
-      "influencer_handle_2"
+      "Andrew Ng",
+      "Harrison Chase",
+      "Jerry Liu",
+      "Logan Kilpatrick",
+      "Lennart Heim",
+      "Gokul Rajaram"
     ],
     "competitors": [
-      "competitor_handle_1"
+      "LangChain",
+      "Weights & Biases",
+      "Arize AI",
+      "Humanloop",
+      "TruEra",
+      "Scale AI",
+      "Credo AI",
+      "Fiddler AI"
     ]
   }
 }
