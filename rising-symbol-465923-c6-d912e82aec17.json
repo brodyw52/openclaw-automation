@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rising-symbol-465923-c6",
+  "private_key_id": "d912e82aec17cb49edf4e2e36b5a71e608d4f51b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC72XpRKPtv0RX/\nyfrdpw8nOlrkYlLNu6D5jDjkvVibsJF6s1KNzERQyRMMEInypw9ULYbnY/Kfm6QB\nWfW2SHdFEl0t9EHro+QaU0MOykokjvJ6YZPf8hTOdlZHG7wsFCzgACqm8w/sujDe\nEpDJ14Ri0ul/NbhqUjyBJZ2aPK9Oyovosg2Nr1KYBe/F7GRmwZAhRDVvV0Pcuh6y\naonObQQ6/NnIlhxTnms36apSRM3GCgewaZhZ7pn7KCj0LHIrvceXFw3bV6mipc1C\nm/8nU70yJKfTZDnzA59jAn/7pN7R3FikdxY6CLyNDsm0yK24QwiQXJWm2u++qDKT\nBv9WuiFRAgMBAAECggEAEEa/PPIGm0EsHU40cOktPHJndrt4PkBAKe827MblOxQ4\n/r8z63pj/vX1Mwnp0f8cqmgJdNoppx+2vbE8Q4+S2gbF0RoFbjP0qz1Epa7sbq9+\nHhF/XRueJueFAUNLcixLWRtalr2fxxy46D0Gk56bZ26r8axHbtrySCRou/j/HZ30\nAgPQkweiI3qrP1r/NgzJ4DYNa+Rd01Q9t89R0vbmEFoax7S7XlYm3r9xoI2qFToG\nJ30VK7KE6VBeHkB14g0TaelC/9VqXr6bjpEz7MnJ9whZ9Nyc1uNa4pm5SzFHXTXP\nUwMueTUaS4uOZPKDJUv+wYMEPvQzwyKHYVa0ovu1ywKBgQDyJ9yT0AtZGCBrnGx+\nhDQlDcFGa43R83c9ZfgoTfzXeJf7hc/Jvn7jlluGqF6jWSPnZoRiwc92RY1HU0eW\nZ4ZXe8FcHijhLtaOdqAhqGryuZHNckO3xzEPXsTOUtLIccko6rv5KuuWekw31f4k\no7N2/ddADDY+GdzqTCzVBqjlHwKBgQDGls14K38uCbjOkcOWCsQPt4YyNma//CXS\niCgaCI3iAGWsedebubqmFrXFtlQjTqqZrBi1b2GWACiZyM+S0p9JYbNKC5t3opVe\nWLgbWV5gcgW+7+wRk/n5iKSTnajVozechGX0IRkoqKpdAta0GPMyvcmfXC8hyxnW\nbWTLZ+w7jwKBgGPWY27du5AEDnnPiDuxLf6I6UKrXVFOW78Ip4OWg8QiiCa/SKgY\nzh/vAdVG3Z3jRpZFAhflaC+PBWx+vWkZTZ4L+/CKzrfoo7Ug22yFD3L7Z02Y6qp+\niY+YtvOJ2jWiFBm2jcFxHKhxy7LJm3pns7o/dduGLWb1Ksu+lE1P7ZppAoGBAJa+\n2nGh8wSrdJG5rFI1EecsVL3A9fY+HSfXGznHzIwF6SgnxTb8oWZ6TrkqUmwKxw2n\nyYnQZq9Kp4c1G/xDzY4Sj9phPT5vOBtKFVcNW8qyQxJRZU1impqE0wkK4KJrJ0e0\naQAML+DhR5EbGofTeKjH0Ekb3Ns2JQLUP3L4DCaZAoGAPKvf1nKNzH77miQ9Pq0/\nFSYQFGAuYxvtKVu1tfiuh6nEbUDOCF/KUT3zeLVXwdet3Cf6ryvb1ca3Ze+hVvNz\nXmXUKyxg/G1uzK8aiKzUlXm8g6nqbXiS7/8XPZpw9319H22NsLTqI8sng35YH3Gx\n1w1eEnyUxk1jm1imjuI9ZmY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "openclaw-sheets-writer@rising-symbol-465923-c6.iam.gserviceaccount.com",
+  "client_id": "117692815444304515579",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/openclaw-sheets-writer%40rising-symbol-465923-c6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
