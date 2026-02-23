@@ -34,8 +34,8 @@ nano .env
 
 Your `.env` should look like:
 ```bash
-RAPIDAPI_KEY=your_key_here
-HUNTER_API_KEY=your_key_here
+RAPIDAPI_KEY=7abf88702emsh090377ff301c97fp188c24jsne617860b7de1
+HUNTER_API_KEY=28d6797942a805786911f093b13f5ff581db62a1
 INSTANTLY_API_KEY=your_key_here
 
 # Optional
