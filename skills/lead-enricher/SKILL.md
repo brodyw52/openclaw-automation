@@ -40,7 +40,7 @@ Turn LinkedIn leads into actionable contacts with full profile data and verified
 export RAPIDAPI_KEY="YOUR_RAPIDAPI_KEY_HERE"
 
 # Hunter.io (for email finding) - REQUIRED for stage 2
-export HUNTER_API_KEY="your_hunter_api_key"
+export HUNTER_API_KEY="28d6797942a805786911f093b13f5ff581db62a1"
 
 # Apollo (optional fallback)
 export APOLLO_API_KEY="your_apollo_api_key"
